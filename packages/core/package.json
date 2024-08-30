@@ -1,13 +1,13 @@
 {
   "name": "@kwange-cli-dev/core",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "> TODO: description",
   "author": "lixing <lixing@LAPTOP-CTOKB2PM>",
   "homepage": "",
   "license": "ISC",
   "main": "lib/core.js",
-  "bin":{
-    "kwange-cli-dev":"bin/index.js"
+  "bin": {
+    "kwange-cli-dev": "bin/index.js"
   },
   "directories": {
     "lib": "lib",

@@ -1,0 +1,19 @@
+{
+  "name": "@kwange-cli-dev/core",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "lixing <lixing@LAPTOP-CTOKB2PM>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/core.test.js"
+  }
+}
